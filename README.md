@@ -1,8 +1,6 @@
-- 👋 Hello there, I am kwangyy :) 
-- 👀 I’m currently interested in Data Science and Machine Learning in particular :) 
-- 🌱 I’m currently learning.... well, Machine Learning. Also interested in Java as a language :) 
-- 💞️ I’m looking to collaborate on analysis of datasets although there are a lot of things that pique my interest. 
-- 📫 You can reach me at chia.kwang.yang@gmail.com! 
+Hello there! I am Kwangyy. I'm an aspiring data scientist seeking to learn more about Data Science field.
+In my own free time, I am focused on learning more about Natural Language Processing and other programming languages. 
+You can reach me at chia.kwang,yang@gmail.com or my (Linkedin)[https://www.linkedin.com/in/kwang-yang-chia/]
 
 <!---
 kwangyy/kwangyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
