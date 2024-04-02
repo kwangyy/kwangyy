@@ -9,7 +9,6 @@ You can reach me at chia.kwang.yang@gmail.com or my [Linkedin](https://www.linke
 - [Kaggle](https://www.kaggle.com/kwangyangchia)
 - [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
 
-![kwangyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangyy&show_icons=true&theme=transparent)
 
 <!---
 kwangyy/kwangyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
