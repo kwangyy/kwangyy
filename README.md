@@ -2,8 +2,12 @@ Hello there!👋 I am Kwangyy. I'm an aspiring data scientist seeking to learn m
 
 In my own free time, I am focused on learning more about Natural Language Processing and other programming languages. 
 
-I'm currently the student lead for Raffles Hall Developers and the Workshop Director for the Statistics and Data Science Society in NUS. Do contact me on my Linkedin if there's anything!
-You can reach me at chia.kwang.yang@gmail.com or my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
+Some of my notable achievements include:
+- Student Lead for Raffles Hall Developers AY23/24
+- Workshop Director for NUS Statistics and Data Science Society AY23/24
+
+
+Want to have a chat? You can reach me at chia.kwang.yang@gmail.com or my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
 
 ## Links
 - [Kaggle](https://www.kaggle.com/kwangyangchia)
