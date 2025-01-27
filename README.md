@@ -5,10 +5,11 @@ Some of my notable achievements include:
 - Student Lead for Raffles Hall Developers AY23/24
 - Workshop Director for NUS Statistics and Data Science Society AY23/24
 
-Want to have a chat? You can reach me at my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
+Want to have a chat? You can reach me at my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/) or my [website](https://www.kwangyyinc.com)
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
+- [Website](https://www.kwangyyinc.com)
 
 
 <!---
