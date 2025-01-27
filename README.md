@@ -1,11 +1,12 @@
-Hello there!👋 I am Kwangyy. I'm an aspiring data scientist seeking to learn more about the Data Science field. 
-I'm mainly interested in becoming a ML Engineer, and I am interested in learning more about Interpretable AI and Natural Language Processing. 
+Hello there!👋 I am Kwangyy. I'm an AI Engineer with a deep focus on Retrieval-Augmented Generation. I have interned for a few companies, such as Atlas and SimpleAI. 
 
 Some of my notable achievements include:
+- 4 internships in 3 years
+- Media Director for Raffles Hall AY24/25
 - Student Lead for Raffles Hall Developers AY23/24
 - Workshop Director for NUS Statistics and Data Science Society AY23/24
 
-Want to have a chat? You can reach me at my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/) or my [website](https://www.kwangyyinc.com)
+Want to have a chat? You can reach me at my [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/) or my [website](https://www.kwangyyinc.com). Hope to hear from you :) 
 
 ## Links
 - [Linkedin](https://www.linkedin.com/in/kwang-yang-chia/)
