@@ -1,6 +1,7 @@
-Hello there!👋 I am Kwangyy. I'm an AI Engineer with a deep focus on Retrieval-Augmented Generation. I have interned for a few companies, such as Atlas and SimpleAI. 
+Hello there!👋 I am Kwangyy. I'm an AI Engineer with a deep focus on Retrieval-Augmented Generation. I am currently working in Huawei Singapore's Research Center, and I have interned for a few startups such as Atlas and SimpleAI. 
 
 Some of my notable achievements include:
+- Final Year Project on Game Toxicity
 - 4 internships in 3 years
 - Media Director for Raffles Hall AY24/25
 - Student Lead for Raffles Hall Developers AY23/24
